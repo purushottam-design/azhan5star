@@ -1,0 +1,31 @@
+AZHAN 5STAR — WEBSITE PACKAGE
+============================
+
+1. Puri ZIP ko extract karein.
+2. Turant preview ke liye index.html par double-click karein.
+3. Recommended: Windows par start.bat double-click karein.
+   Iske liye Node.js 18 ya newer chahiye. npm install ki zaroorat nahi.
+   macOS/Linux: sh start.sh
+   Terminal se: npm start
+
+Website me scroll karne par pehle 6 reel cards aate hain, phir 6 images.
+3 reels ki original MP4 files local hain aur play hoti hain.
+Baaki 3 reels apne original Instagram link par khulti hain.
+6 images original reel covers/stills hain; alag photo posts nahi hain.
+Profile avatar bhi included hai. Yeh poore account ka complete archive nahi hai.
+
+Video muted start hota hai. Sound on karne ke liye Sound off button click karein.
+Photo click karne par bada viewer khulta hai. Escape se close hota hai.
+Header ka Motion on/off button animation control karta hai.
+Three.js 3D scene ke liye WebGL chahiye; unavailable hone par fallback dikhega.
+
+Aur original media add karne ke liye website folder ke terminal me:
+
+node tools/import-media.cjs "C:\Users\You\Downloads\AzhanMedia" --append
+
+--append current gallery ko rakhta hai aur naye unique files add karta hai.
+--append ke bina selected folder gallery ko replace karta hai.
+Original source files change nahi hote. Import ke baad page refresh karein.
+
+Full instructions, exact media coverage aur hosting steps: README.md
+Media import details: MEDIA_GUIDE.md

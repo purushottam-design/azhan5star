@@ -1,0 +1,184 @@
+{
+  "retrievedAt": "2026-10-27",
+  "profileUrl": "https://www.instagram.com/azhan5star/",
+  "publicEmbedUrl": "https://www.instagram.com/azhan5star/embed/",
+  "profile": {
+    "username": "azhan5star",
+    "displayName": "Azhan5star",
+    "bio": "Director | Actor | YouTuber",
+    "description": "Building the future of music",
+    "businessEmail": "azhan5star1@gmail.com",
+    "avatar": "media/profile.jpg",
+    "verifiedInPublicEmbed": true,
+    "followersSnapshot": 3267118,
+    "postsSnapshot": 1793
+  },
+  "coverage": "Public profile embed returned 6 recent reels. This is not a complete archive of the account. No standalone photo posts were retrieved. Images in media/ are the profile avatar and authentic reel covers.",
+  "videoBlockExplanation": "Three official post embeds set copyright_blocked=true and expose no video file. Their covers and Instagram source links are included; no restriction was bypassed.",
+  "items": [
+    {
+      "id": "DewqFPHNSRT",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/DewqFPHNSRT/",
+      "embedUrl": "https://www.instagram.com/p/DewqFPHNSRT/embed/",
+      "title": "itna bada saman 😂😂",
+      "caption": "itna bada saman 😂😂 #reels #comedy #funny",
+      "poster": "media/DewqFPHNSRT.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": "media/DewqFPHNSRT.mp4",
+      "availability": "local_video",
+      "copyrightBlockedInEmbed": false,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1792594138,
+      "bytes": 6268500,
+      "mimeType": "video/mp4",
+      "posterWidth": 720,
+      "posterHeight": 1280,
+      "videoStreams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "durationSeconds": 40.353424
+    },
+    {
+      "id": "Det45-UN5UQ",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/Det45-UN5UQ/",
+      "embedUrl": "https://www.instagram.com/p/Det45-UN5UQ/embed/",
+      "title": "apne baccho ka dhiyan rakho 🥹🥹",
+      "caption": "apne baccho ka dhiyan rakho 🥹🥹 #reels #azhan5star",
+      "poster": "media/Det45-UN5UQ.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": null,
+      "availability": "instagram_only",
+      "copyrightBlockedInEmbed": true,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1792501276,
+      "posterWidth": 720,
+      "posterHeight": 1280
+    },
+    {
+      "id": "DeekRxHtoGA",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/DeekRxHtoGA/",
+      "embedUrl": "https://www.instagram.com/p/DeekRxHtoGA/embed/",
+      "title": "A little love proposal for my daughter 🤩 🥹",
+      "caption": "A little love proposal for my daughter 🤩 🥹\n#azhan5star #reels",
+      "poster": "media/DeekRxHtoGA.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": null,
+      "availability": "instagram_only",
+      "copyrightBlockedInEmbed": true,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1791987302,
+      "posterWidth": 720,
+      "posterHeight": 1280
+    },
+    {
+      "id": "DecQ-B4yAt-",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/DecQ-B4yAt-/",
+      "embedUrl": "https://www.instagram.com/p/DecQ-B4yAt-/embed/",
+      "title": "reality ❤️❤️",
+      "caption": "reality ❤️❤️ #reels #azhan5star",
+      "poster": "media/DecQ-B4yAt-.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": "media/DecQ-B4yAt-.mp4",
+      "availability": "local_video",
+      "copyrightBlockedInEmbed": false,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1791910262,
+      "bytes": 10400111,
+      "mimeType": "video/mp4",
+      "posterWidth": 720,
+      "posterHeight": 1280,
+      "videoStreams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "durationSeconds": 44.579456
+    },
+    {
+      "id": "DeZm2XJSVKy",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/DeZm2XJSVKy/",
+      "embedUrl": "https://www.instagram.com/p/DeZm2XJSVKy/embed/",
+      "title": "dusro ki khushi apni khushi hain 😍🥹",
+      "caption": "dusro ki khushi apni khushi hain 😍🥹 #reels #azhan5star",
+      "poster": "media/DeZm2XJSVKy.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": null,
+      "availability": "instagram_only",
+      "copyrightBlockedInEmbed": true,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1791820924,
+      "posterWidth": 1080,
+      "posterHeight": 1920
+    },
+    {
+      "id": "DeUcxnES5On",
+      "type": "video",
+      "owner": "azhan5star",
+      "sourceUrl": "https://www.instagram.com/p/DeUcxnES5On/",
+      "embedUrl": "https://www.instagram.com/p/DeUcxnES5On/embed/",
+      "title": "yahi hota hain na 🥹🥹",
+      "caption": "yahi hota hain na 🥹🥹 #reels #azhan5star #chiu5star",
+      "poster": "media/DeUcxnES5On.jpg",
+      "posterSourceType": "original_reel_cover",
+      "src": "media/DeUcxnES5On.mp4",
+      "availability": "local_video",
+      "copyrightBlockedInEmbed": false,
+      "width": 720,
+      "height": 1280,
+      "timestamp": 1791647637,
+      "bytes": 7103859,
+      "mimeType": "video/mp4",
+      "posterWidth": 1080,
+      "posterHeight": 1920,
+      "videoStreams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "durationSeconds": 39.053107
+    }
+  ],
+  "sourceEvidence": [
+    "Public profile HTML meta description",
+    "Public profile embed contextJSON graphql_media",
+    "Public individual post embed contextJSON gql_data"
+  ]
+}

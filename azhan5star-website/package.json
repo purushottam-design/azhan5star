@@ -1,0 +1,13 @@
+{
+  "name": "azhan5star-scroll-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Azhan5star local animated reels and photos portfolio",
+  "scripts": {
+    "start": "node server.cjs --open",
+    "import-media": "node tools/import-media.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

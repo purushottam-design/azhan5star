@@ -1,0 +1,2 @@
+/* Leave room for the additional navigation destination on small phones. */
+@media(max-width:420px){.site-header{gap:8px}.main-nav{gap:8px}.main-nav a{font-size:9px}}
