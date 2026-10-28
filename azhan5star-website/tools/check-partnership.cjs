@@ -43,7 +43,7 @@ async function main() {
   vm.runInNewContext(fs.readFileSync(path.join(root, 'js/partnership-media.js'), 'utf8'), nestedContext);
   assert.equal(nestedContext.window.PartnershipMedia.safeUrl('/media/video.mp4', true), '/azhan5star-website/media/video.mp4');
   assert.equal(nestedContext.window.PartnershipMedia.safeUrl('media/creator.jpg', true), '/azhan5star-website/media/creator.jpg');
-  for (const alias of [path.join(root, 'partnership/index.html'), path.join(root, '../partnership/index.html')]) {
+  for (const alias of [path.join(root, 'partnership/index.html')]) {
     const aliasHtml = fs.readFileSync(alias, 'utf8');
     const target = /url=([^"\s]+)/.exec(aliasHtml)[1];
     assert.equal(path.resolve(path.dirname(alias), target), path.join(root, 'partnership.html'), 'Static redirect reaches the actual page');

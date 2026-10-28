@@ -1,7 +1,7 @@
 # Partnership page
 
 Run `npm start` and visit `http://127.0.0.1:4173/partnership`.
-With VS Code Live Server serving the workspace on port 5500, use `http://127.0.0.1:5500/partnership` or `http://127.0.0.1:5500/azhan5star-website/partnership.html`. Static directory redirects also support Live Server opened directly in the website folder. Navigation uses relative `.html` links so it works in either setup.
+All Partnership files are inside `azhan5star-website`. With VS Code Live Server serving the workspace on port 5500, use `http://127.0.0.1:5500/azhan5star-website/partnership/` or `http://127.0.0.1:5500/azhan5star-website/partnership.html`. If Live Server serves the website folder directly, `/partnership/` also works. Navigation uses relative `.html` links in either setup.
 The homepage is preserved apart from the new navigation destination and its small-screen spacing stylesheet.
 
 ## Publishing content
